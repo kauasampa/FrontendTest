@@ -1,0 +1,43 @@
+body{
+    background-color: #2e2e2e;
+}
+#sourcerers{
+    width: 70px;
+    height: auto;
+}
+#orcamento{
+    color: black;
+    background-color: rgb(113, 136, 158);
+    border: 0;
+    border-radius: 10px;
+    padding: 10px 25px 10px 25px;
+}
+#orcamento:hover{
+    background-color: rgb(118, 158, 113) ;
+    border-radius: 12px;
+    padding: 12px 27px 12px 27px;
+}
+
+
+th:hover{
+    color:rgb(118, 158, 113);
+}
+th{
+    color:white;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+
+
+
+#bar{
+    background-color: rgb(6, 69, 73);
+}
+#corpo{
+    background-color: green;
+    border: green;
+    border-radius: 30px;
+    margin-left: 30px;
+    margin-right: 1500px;
+}
